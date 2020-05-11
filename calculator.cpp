@@ -14,8 +14,3 @@ int Calculator::Mul (double a, double b)
 {
     return a * b;
 }
-
-int Calculator::Div (double a, double b)
-{
-    return a / b;
-}
